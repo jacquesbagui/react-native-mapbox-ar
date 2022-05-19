@@ -8,6 +8,10 @@
     "develop": "node scripts/develop.js"
   },
   "author": "Nick Italiano",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/jacquesbagui/react-native-mapbox-ar.git"
+  },
   "license": "MIT",
   "dependencies": {
     "@mapbox/sphericalmercator": "^1.0.5",
