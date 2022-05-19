@@ -10,7 +10,7 @@
   "author": "Nick Italiano",
   "repository": {
     "type": "git",
-    "url": "git://github.com/jacquesbagui/react-native-mapbox-ar.git"
+    "url": "https://github.com/jacquesbagui/react-native-mapbox-ar.git"
   },
   "license": "MIT",
   "dependencies": {
